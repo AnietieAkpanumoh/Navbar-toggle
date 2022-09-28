@@ -4,7 +4,7 @@ A Navbar toggle project using HTML, CSS, and a little bit of JavaScript.
 
 ### Live Demo
 
-- Github: Click [here](https://anietieakpanumoh.github.io/Dice-challenge/)
+- Github: Click [here](https://anietieakpanumoh.github.io/Navbar-toggle/)
 
 ## Built With
 
